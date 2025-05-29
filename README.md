@@ -9,3 +9,6 @@ The design is a direct transfer of the logic-gate design into transistors. Each 
 
 For the PCB, I just tried to fit the schematic inside the logic diagram, to some degree of sucess. The design on the back is the result of asking as many people as possible what they thought should go there. I have ( almost ) no complaints.
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/034732dc-a9d1-4683-9c75-3a0cdf3dfa5d" />
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/e2e3dd3d-5814-4ae8-beda-cfa9ed0df85d" />
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/c6142e30-9e1d-49ea-aed2-a3cb435d6cb9" />
+I've yet to assemble, but I will update this page once I do.
